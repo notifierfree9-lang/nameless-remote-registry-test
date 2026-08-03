@@ -1,6 +1,11 @@
 return {
     places = {
-        [155615604] = "https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/test.lua",
-        [123974602339071] = "https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/test.lua"
+        [104522435597696] = [[
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/1", true))()
+        ]],
+
+        ["96342491571673, 109983668079237, 128762245270197, 99606176102979"] = [[
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/2", true))()
+        ]]
     }
 }
