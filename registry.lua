@@ -8,7 +8,7 @@ return {
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/2", true))()
         ]],
 
-        ["97598239454123, 73504898027860"] = [[
+        ["97598239454123, 73504898027860, 77085202503540"] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/3", true))()
         ]]
     }
