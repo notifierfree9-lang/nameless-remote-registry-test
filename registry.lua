@@ -10,6 +10,10 @@ return {
 
         [10200395747] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/3", true))()
+        ]],
+
+        [7326934954] = [[
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/4", true))()
         ]]
     }
 }
