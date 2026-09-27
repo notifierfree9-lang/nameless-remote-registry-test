@@ -24,35 +24,35 @@ return {
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/6", true))()
         ]],
 
-        [17625359962] = [[
+        [6035872082] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/7", true))()
         ]],
 
-        [6516141723] = [[
+        [2440500124] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/8", true))()
         ]],
 
-        [114234929420007] = [[
+        [7633926880] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/9", true))()
         ]],
 
-        [1600503] = [[
+        [358276974] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/10", true))()
         ]],
 
-        [77463332823746] = [[
+        [10648640958] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/11", true))()
         ]],
 
-        [292439477] = [[
+        [113491250] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/12", true))()
         ]],
 
-        [286090429] = [[
+        [111958650] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/13", true))()
         ]],
 
-        [13772394625] = [[
+        [4777817887] = [[
             loadstring(game:HttpGet("https://raw.githubusercontent.com/notifierfree9-lang/nameless-remote-registry-test/refs/heads/main/14", true))()
         ]]
     }
